@@ -17,5 +17,6 @@ Desenvolver uma história em quadrinhos digital que aborde temas como exploraç�
 - Conflito: Dilemas éticos e ameaças que colocam em risco tanto a missão quanto a humanidade.
 - Conclusão: A resolução dos mistérios e o futuro da humanidade.
 
-https://github.com/adripaiva86/Exploradores/issues/1#issue-2590334825
-https://github.com/adripaiva86/Exploradores/issues/2#issue-2590339246
+- https://github.com/adripaiva86/Exploradores/issues/1#issue-2590334825
+- https://github.com/adripaiva86/Exploradores/issues/2#issue-2590339246
+- https://github.com/adripaiva86/Exploradores/issues/3#issue-2590341978
