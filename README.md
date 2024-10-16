@@ -16,3 +16,5 @@ Desenvolver uma história em quadrinhos digital que aborde temas como exploraç�
 - Descoberta: Encontro com planetas estranhos e civilizações perdidas que desafiam a compreensão humana.
 - Conflito: Dilemas éticos e ameaças que colocam em risco tanto a missão quanto a humanidade.
 - Conclusão: A resolução dos mistérios e o futuro da humanidade.
+
+
