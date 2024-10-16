@@ -18,3 +18,4 @@ Desenvolver uma história em quadrinhos digital que aborde temas como exploraç�
 - Conclusão: A resolução dos mistérios e o futuro da humanidade.
 
 https://github.com/adripaiva86/Exploradores/issues/1#issue-2590334825
+https://github.com/adripaiva86/Exploradores/issues/2#issue-2590339246
