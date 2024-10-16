@@ -25,3 +25,6 @@ Desenvolver uma história em quadrinhos digital que aborde temas como exploraç�
 
 ## Sprint Backlog (Primeiro Sprint)
 - https://github.com/adripaiva86/Exploradores/issues/3#issue-2590341978
+
+## Kanban
+- https://github.com/users/adripaiva86/projects/3
