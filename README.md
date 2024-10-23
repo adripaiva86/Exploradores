@@ -35,4 +35,4 @@ Desenvolver uma história em quadrinhos digital que aborde temas como exploraç�
 ### Roteiro do Primeiro Capítulo
 - https://github.com/adripaiva86/Exploradores/issues/5#issue-2607037126
 ### Layout Básico para a Primeira Página
-- 
+- https://github.com/adripaiva86/Exploradores/issues/6#issue-2607048290
