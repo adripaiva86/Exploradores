@@ -31,4 +31,4 @@ Desenvolver uma história em quadrinhos digital que aborde temas como exploraç�
 
 ## Primeira Semana
 ### Personagens Principais e suas Características
-- 
+- https://github.com/adripaiva86/Exploradores/issues/4#issue-2607019630
