@@ -28,3 +28,7 @@ Desenvolver uma história em quadrinhos digital que aborde temas como exploraç�
 
 ## Kanban
 - https://github.com/users/adripaiva86/projects/3
+
+## Primeira Semana
+### Personagens Principais e suas Características
+- 
