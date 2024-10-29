@@ -38,4 +38,5 @@ Desenvolver uma história em quadrinhos digital que aborde temas como exploraç�
 - https://github.com/adripaiva86/Exploradores/issues/6#issue-2607048290
 
 ## Segunda Semana
-###
+### Sprint Planning (Segunda Semana)
+- https://github.com/adripaiva86/Exploradores/issues/7#issue-2618244586
